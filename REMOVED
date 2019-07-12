@@ -25,3 +25,66 @@ document.addEventListener('scroll', function() {
 </script>
 </div>
 <!--BGBAR-->
+
+<!--Categories paste it above the </main> tag below featured post--->
+<div id="allcategories" class="display-categories mt-5">
+    <p class="text-uppercase font-weight-light mb-0">
+        Categories    </p>
+    <div class="row">
+                <div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div><div class="col-2 mt-3">
+            <div class="text-uppercase font-weight-bold mb-1"><a class="text-dark" href="https://www.themepush.com/demo-mundana/category/creativity/" alt="View all posts in creativity">creativity</a></div>                         <a href="https://www.themepush.com/demo-mundana/category/creativity/">
+                <img src="https://i.imgur.com/lAlzBbS.png">
+            </a>
+                        <a href="https://www.themepush.com/demo-mundana/category/creativity/"><div class="text-muted mt-1">6 Stories</div></a>        </div>
+                
+                
+                
+                
+                
+            </div>
+</div>
+
