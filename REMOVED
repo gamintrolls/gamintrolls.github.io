@@ -7,3 +7,21 @@ footer
 
 its from 404
 <style type="text/css" media="screen">.container {margin: 10px auto;max-width: 600px;text-align: center;}h1 {margin: 30px 0;font-size: 4em;line-height: 1;letter-spacing: -1px;}</style>
+
+<!--PGBAR-->
+<!-- Script used to generate --scroll variable with current scroll percentage value -->
+<script>
+var element = document.documentElement,
+  body = document.body,
+  scrollTop = 'scrollTop',
+  scrollHeight = 'scrollHeight',
+  progress = document.querySelector('.progress-bar'),
+  scroll;
+
+document.addEventListener('scroll', function() {
+  scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+  progress.style.setProperty('--scroll', scroll + '%');
+});
+</script>
+</div>
+<!--BGBAR-->
