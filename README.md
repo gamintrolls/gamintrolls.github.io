@@ -1,1 +1,2 @@
-GAMINTROLLS &nbsp; | &nbsp;gamintrolls.github.io
+GAMINTROLLS
+gamintrolls.github.io
