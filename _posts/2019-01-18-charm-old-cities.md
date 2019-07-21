@@ -3,7 +3,7 @@ layout: post
 title:  "Could we reinvent the charm of old cities"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: https://getintopc.com/wp-content/uploads/2019/07/WINDEV-WEBDEV-WINDEV-Mobile-23-Direct-Link-Download-GetintoPC.com_-768x614.jpg
+image: assets/images/home.jpg
 tags: [sticky]
 ---
 
