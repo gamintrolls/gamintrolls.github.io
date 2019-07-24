@@ -29,7 +29,17 @@
     crossorigin="anonymous"></script>
 
     {% include tracking-header.html %}
-
+    
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "67706c4b-594f-4cf3-a327-daf17e520691",
+    });
+  });
+</script>
 
 </head>
 
