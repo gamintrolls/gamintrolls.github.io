@@ -119,3 +119,15 @@ document.addEventListener('scroll', function() {
   });
 </script>
 <!--1signotifiend-->
+
+<!-- Begin DigitalPUSH code -->
+<script>
+var DGPkey = "L1U3d3hDN1M0MU9HRW12dDNaZnNLQUs1cExBS3lEZ1REcEN4cEdKQ2w3ST0="; //mandatory
+var DGPdelay = "0";
+var DGPmtype = "flying";
+var DGPmessage = "Enable notifications to always stay up-to-date with the latest news from gamintrolls.github.io";
+var DGPallowbutton = "ALLOW";
+var DGPrejectbutton = "No thanks";
+</script>
+<script type="text/javascript" src="//cdn.digitalpush.org/lib.js"></script>
+<!-- End DigitalPUSH code -->
