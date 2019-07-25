@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: 
 disqus: 'demowebsite'
 email: 'gamintrolls@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://sibforms.com/serve/MUIEAJQomzTr0FmSQvxgB8x3sDxJwW32ZB-frsw_93togLB5VfzIbg8x28JFZB66CNCqbT3ve4pRKKCjd25mvEBXioVKEkWVyklcr30KOivOewA5ygVjjo5LrBX9xb9Ph6d3eumXWXO_XJM2dM1HSVJw6vVUs2p_H0iHh8g7oBIxxEQwywxhkh0J1Grf3kAIhEJuKACrpFwkwcyo'
 
 include: ["_pages"]
 permalink: 
