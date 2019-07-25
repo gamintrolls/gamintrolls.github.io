@@ -1,12 +1,13 @@
 <!-- This goes before </head> closing tag, so Add Google Analytics and More-->
-<!-- Begin DigitalPUSH code -->
+<!--1sigstrt-->
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
-var DGPkey = "L1U3d3hDN1M0MU9HRW12dDNaZnNLQUs1cExBS3lEZ1REcEN4cEdKQ2w3ST0="; //mandatory
-var DGPdelay = "0";
-var DGPmtype = "flying";
-var DGPmessage = "Enable notifications to always stay up-to-date with the latest news from gamintrolls.github.io";
-var DGPallowbutton = "ALLOW";
-var DGPrejectbutton = "No thanks";
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "67706c4b-594f-4cf3-a327-daf17e520691",
+    });
+  });
 </script>
-<script type="text/javascript" src="//cdn.digitalpush.org/lib.js"></script>
-<!-- End DigitalPUSH code -->
+<!--1sigend-->
