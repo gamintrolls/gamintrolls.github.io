@@ -12,9 +12,8 @@ permalink: "/contact.html"
 <div class="col-md-6">
 <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
 </div>
+  {% include chat.html %}
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
-
-{% include gamintrolls.github.io/chat.html %}
