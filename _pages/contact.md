@@ -17,4 +17,4 @@ permalink: "/contact.html"
 <input class="btn btn-success" type="submit" value="Send">
 </form>
 
-{% include chat.html %}
+{% include gamintrolls.github.io/chat.html %}
